@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="NewmanPostman_JENKINS" tests="2" time="0.385">
-  <testsuite name="peticion_1" id="da998f24-023e-49ad-b77b-da2f7b753ea1" timestamp="2023-04-28T06:13:54.281Z" tests="3" failures="0" errors="0" time="0.314">
-    <testcase name="Test que comprueba status code es 200" time="0.314" classname="NewmanPostmanJenkins"/>
-    <testcase name="Body matches string" time="0.314" classname="NewmanPostmanJenkins"/>
+<testsuites name="NewmanPostman_JENKINS" tests="2" time="0.687">
+  <testsuite name="peticion_1" id="91d8c659-ef86-4826-93c6-11705f11760a" timestamp="2023-04-28T18:44:37.024Z" tests="3" failures="0" errors="0" time="0.623">
+    <testcase name="Test que comprueba status code es 200" time="0.623" classname="NewmanPostmanJenkins"/>
+    <testcase name="Body matches string" time="0.623" classname="NewmanPostmanJenkins"/>
   </testsuite>
-  <testsuite name="peticion_2" id="82d94850-188c-41d9-bc96-3171d77c42c4" timestamp="2023-04-28T06:13:54.281Z" tests="4" failures="0" errors="0" time="0.071">
-    <testcase name="Test que comprueba status code es 200" time="0.071" classname="NewmanPostmanJenkins"/>
-    <testcase name="Body matches string" time="0.071" classname="NewmanPostmanJenkins"/>
-    <testcase name="Status code is 200" time="0.071" classname="NewmanPostmanJenkins"/>
+  <testsuite name="peticion_2" id="f5bab70a-5830-40c6-abe1-78d88ff8199b" timestamp="2023-04-28T18:44:37.024Z" tests="4" failures="0" errors="0" time="0.064">
+    <testcase name="Test que comprueba status code es 200" time="0.064" classname="NewmanPostmanJenkins"/>
+    <testcase name="Body matches string" time="0.064" classname="NewmanPostmanJenkins"/>
+    <testcase name="Status code is 200" time="0.064" classname="NewmanPostmanJenkins"/>
   </testsuite>
 </testsuites>
